@@ -1,2 +1,2 @@
 # Moisture_EKE
-Code for analysis in paper "Atmospheric Moisture Decreases Midlatitude Eddy Kinetic Energy" by Lutsko et al
+Code for analysis in paper "Atmospheric Moisture Decreases Midlatitude Eddy Kinetic Energy" by Lutsko et al. The moist QG model used in the first part of the paper is available from https://github.com/nicklutsko/moist_QG_channel. The moist GCM simulations were run with https://execlim.github.io/IscaWebsite/. Please read the paper for a full list of simulations and parameter settings.
